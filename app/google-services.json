@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22571166174",
+    "firebase_url": "https://promociones-5c64b.firebaseio.com",
+    "project_id": "promociones-5c64b",
+    "storage_bucket": "promociones-5c64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22571166174:android:eaf50dda5186f77c",
+        "android_client_info": {
+          "package_name": "com.example.curacao.restauranteenlnea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22571166174-17gv96gn25icojaqt6cp3vqcf99ng6vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCcdVizrKaQs5U78Y7MmjXfyAStPxe0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

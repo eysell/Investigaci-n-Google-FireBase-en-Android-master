@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Restaurante en línea</string>
+    <string name="app_text1">Combos</string>
+    <string name="combo1">PAPAS</string>
+    <string name="combo2">ENSALADA</string>
+    <string name="combo3">LAZAÑA</string>
+    <string name="combo4">PIZZA</string>
+    <string name="combo5">POLLO</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="ordenes">No. de Ordenes</string>
+    <string name="ver">Ver más...</string>
+    <string name="ok">¡Tu pedido está en camino!</string>
+</resources>
